@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Homework #1: HTML and Client-Server Technology </title>
+        <meta name="description" content="Homework #1: HTML and Client-Server Technology">
+		<meta name="keywords" content="technology, HTML, CSS, server, client">
+		 <link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+	<center><h1 id="clientserver">Client/Server Computing</h1></center>
+	<center><p id="myname">By Joseph D. Cline Jr.</p></center>
+	<h2 id="model">What is the client/server model</h2>
+	<p id="infomodel">The Client/Server model is a distributed application structure that provides a service (Server) to a service requester (Clients). A client server network is designed for clients to access resources such as the internet or other services from a central computer which again is the server. </p> 
+	        <hr />
+	<h2 id="advantages">Advantages of the client/server model</h2>
+	<ul>
+	    <li id="list1"><b>Management:</b> Because of the server, you can store all files in the same place, which allows somebody to be able to manage those files/documents much easier. This is because of how easy it can be to find the files.</li>
+	    <li id="list2"><b>Recovery and Backup:</b> Recovering and using backups is much easier because data is stored on a server. If the data is lost because of some mistake it could be easily recovered because of how it gets stored on a server.</li>
+	    <li id="list3"><b>Accessibility:</b> Because of platforms in the network, a server could be accessed remotely from many different places which allows for easy accessibility.</li>
+	    <li id="list4"><b>Easy Maintenance:</b> Because of how a server is operating, it can be very easy to repair, replace, and upgrade while the client remains unaffected.  </li>
+	    <li id="list5"><b>Cost:</b> The cost is drastically reduced because of how it takes very little maintenance and employees to manage the server. Because of management it is much easier to manage and find files/documents which helps reduce the cost which makes it a more appeasing option, also because of the maintenance it takes to run the server you again reduce the employees it takes to manage the server and the money it takes to operate it constantly which saves money. </li>
+	            <hr />
+	            <h2 id="example">Examples of client/server software</h2>
+	       <table align="center">
+	                 <caption class="title"> <b>Examples of Client/Server Software</b>
+	                 <table border="3">
+	                    <tr>
+	       <th id="Example1">Examples</th>
+	       <th>Software</th>
+            <th>Client</th>
+            <th>Server</th>
+        </tr>
+        <tr>
+            <td>Web</td>
+            <td>Chrome/Firefox/WebGL</td>
+            <td>ChromeFirefox/InterExployer</td>
+            <td>IIS/Apache</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>Thunderbird/OperaMail/Gmail</td>
+            <td>Outlook/ThunderBird</td>
+            <td>Microsoft Exchange</td>
+        </tr>
+        <tr>
+            <td>FTP</td>
+            <td>FileZilla/Firefox/Cyberduck</td>
+            <td>FileZilla/Firefox/Cyberduck</td>
+            <td>FileZilla/Firefox/Cyberduck</td>
+        </tr>
+        <tr>
+            <td>Coding</td>
+            <td>Visual Studio/Atom/Pycharm</td>v
+            <td>HTML/CSS/JavaScript</td>
+            <td>PHP/SQL/Java/Python</td>
+        </tr>
+           <tr>
+            <td>Database</td>
+            <td>Oracle/MySQL/Access</td>
+            <td>Firebird/Access</td>
+            <td>Oracle/Informix/Ingres
+        </tr>
+	            </table>
+	            <hr />
+	            <h2 id="Protocol">Examples of TCP/IP Protocols</h2>
+	            <li id="list-1"><b>File Transfer Protocol:</b> FTP is the standard network protocol used for transfering computer files between a client and server on a computer network. Examples of this take place everywhere from software like <i>FileZilla</i>, to other larger software like <i>Firefox</i> and <i>Internet Explorer 7.</i> </li>
+	            <li id="list-2"><b>Hypertext Transfer Protocol:</b> HTTP is an application protocol for distributed, collaborative, and hypermedia information systems. Examples of this are</li>
+	            <li id="list-3"><b>Hypertext Transfer Protocol Secure:</b> HTTPS is authentication of the accessed website and protection of the privacy and integrity of the exchanged data while in transit. It protects against man in the middle attacks. The bidirectional encryption of communications between a client and server protects against eavesdropping and tampering of the communication. In practice, this provides a reasonable assurance that one is communicating without interference by attackers with the website that one intended to communicate with, as opposed to an impostor. Examples of this are </li>
+	            <li id="list-4"><b>Dynamic Host Configuration Protocol:</b>DHCP is a network management protocol used on UDP/IP networks whereby a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other IP networks. Examples of this are </li>
+	            <li id="list-5"><b>Simple Mail Transfer Protocol:</b>SMTP is an Internet standard for electronic mail transmission, examples of this are <i>Gmail, Yahoo, Outlook, and AOL</i>. This also could include any Newsletter or Promotional Email sending applications.</li>
+<hr />
+	<h2 id="Network">Examples of Network Utilities and Services</h2>
+	            <li id="Elist1"><b>Ping:</b>The Ping utility tests connectivity between two hosts. Ping uses a special protocol called the Internet Control Message Protocol to determine whether the remote machine (website/Server) can receive the test packet and reply. <u>Examples</u> of Ping are </li>
+	            <li id="Elist2"><b>Tracert:</b>Tracert is very similar to Ping, except that Tracert identifies pathways taken along each hop, rather than the time it takes for each packet to return. <u>Examples</u> of Tracert are</li>
+	            <li id="Elist3"><b>Pathping:</b>PathPing is a network utility supplied in Windows NT and beyond that combines the functionality of ping with that of tracert. It provides details of the path between two hosts and Ping-like statistics for each node in the path based on samples taken over a time period, depending on how many nodes are between the start and end host. <u>Examples</u> of Pathping are</li>
+	            <li id="Elist4"><b>Whois:</b>The Whois command looks up the registration record associated with a domain name. This can show you more information about who registered and owns a domain name, including  their contact information. <u>Examples</u> of Whois are <a href="url" id="whoislink">https://whois.icann.org/en</a> </li>
+	            <li id="Elist5"><b>Ipconfig:</b>The IPConfig command line utility will show detailed information about the network you are connected to. It also helps with reconfiguration of your IP address through release and renew. <u>Examples</u> of Ipconfig are</li>
+	            <hr />
+	            <h2 id="Address">Examples of Relative and Absolute Addresses </h2>
+	  <div class="row">
+  <div class="column" id="Column1">
+    <h2>Relative Addresses</h2>
+    <p id="Relative">Examples include: In a Relative Address it means the distance from another address, called the base address. The example being a address such as B+20, B being the base address where 20 round be the offset known as the distance.</p> <p id=C1> style/css <br> css/style.css <br> css/v2/style.css </p>
+  </div>
+  <div class="column" id="Column2">
+    <h2>Absolute Addresses</h2>
+    <p id="Absolute">Examples include: In a Absolute Address it means the fixed location in real storage in terms of number of bytes from the beginning (Disk/Sectors). The example being a location within the device, such as: memory byte 273,762, disk drive 3, and sector 347. That would be considered an absolute address. Other Absolute addresses are links to external websites such as <br><a href="url" id="whoislink">https://whois.icann.org/en</a> <br><a href="url" id="githublink">https://github.com/JosephCline </a><br><a href="url" id="sololearn">https://www.sololearn.com/Profile/2260402#_=_</a> </p>
+  </div>
+<hr />
+<sub id="sub">CIS 122 Web Internet Technologies </sub>
+<br />
+<sub id="sub2">Homework #1: HTML and Client-Server Technology </sub>
+</body>
+</html>

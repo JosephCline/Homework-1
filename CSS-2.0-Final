@@ -1,0 +1,156 @@
+body {
+    background-color: black;
+}
+#myname {
+    color:Ivory;
+    font-family: Andale Mono, monospace;
+    font-size:20px;
+    text-align:center;
+}
+#clientserver {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+      text-align:center;
+}
+#model {
+    color:Ivory;
+   font-family:Andale Mono, monospace;
+     text-align:center;
+}
+#infomodel {
+    color:Ivory;
+     font-family:Andale Mono, monospace;
+       text-align:center;
+}
+#advantages {
+    color:Ivory;
+     font-family:Andale Mono, monospace;
+       text-align:center;
+}
+#list1 {
+    color:Ivory;
+     font-family:Andale Mono, monospace;
+}
+#list2 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+}
+#list3 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+}
+#list4 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+}
+#list5 {
+    color:Ivory;
+ font-family:Andale Mono, monospace;
+   
+}
+#example {
+    color:Ivory;
+font-family:Andale Mono, monospace;;
+  text-align:center;
+}
+table {
+    color:white;
+    background-color:darkred;
+    width:450px;
+      text-align:center;
+      font-family:Andale Mono, monospace;
+}
+
+#list-1 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#list-2 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#list-3 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#list-4 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#list-5 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Elist1 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Elist2 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Elist3 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Elist4 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Elist5 {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+    text-align:left;
+}
+#Protocol {
+    color:Ivory;
+    font-family:Andale Mono, monospace;
+}
+#Network{
+    font-family:Andale Mono, monospace;
+    color:Ivory;
+}
+#Address{
+    color:Ivory;
+   font-family:Andale Mono, monospace;
+     text-align:center;
+}
+#Column1 { 
+    color:Black;
+    background-color:Ivory;
+}
+#Column2 {
+    Color:Black;
+    background-color:Ivory;
+}
+#sub {
+    color:Ivory;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
+#sub2 {
+    color:Ivory;
+    font-size:12px;
+    font-family:"Arial Black", Gadget, sans-serif;
+}
+#whoislink {
+    color:darkred;
+}
+#githublink {
+    color:darkred;
+}
+#sololearn {
+    color:darkred;
+}
+#C1 {
+    color:darkred;
+}
