@@ -25,32 +25,37 @@ body {
 #advantages {
     color:Ivory;
      font-family:Andale Mono, monospace;
-       text-align:center;
-}
+	 text-align:center
+	 }
 #list1 {
     color:Ivory;
      font-family:Andale Mono, monospace;
+
 }
 #list2 {
     color:Ivory;
     font-family:Andale Mono, monospace;
+
 }
 #list3 {
     color:Ivory;
     font-family:Andale Mono, monospace;
+
 }
 #list4 {
     color:Ivory;
     font-family:Andale Mono, monospace;
+
 }
 #list5 {
     color:Ivory;
  font-family:Andale Mono, monospace;
-   
+
+
 }
 #example {
     color:Ivory;
-font-family:Andale Mono, monospace;;
+font-family:Andale Mono, monospace;
   text-align:center;
 }
 table {
@@ -65,58 +70,70 @@ table {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #list-2 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #list-3 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #list-4 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #list-5 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Elist1 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Elist2 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Elist3 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Elist4 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Elist5 {
     color:Ivory;
     font-family:Andale Mono, monospace;
     text-align:left;
+    list-style-type:none;
 }
 #Protocol {
     color:Ivory;
     font-family:Andale Mono, monospace;
+	text-align:center;
 }
 #Network{
     font-family:Andale Mono, monospace;
+	text-align:center;
     color:Ivory;
 }
 #Address{
@@ -124,23 +141,27 @@ table {
    font-family:Andale Mono, monospace;
      text-align:center;
 }
-#Column1 { 
+#Column1 {
     color:Black;
     background-color:Ivory;
+	text-align:center;
 }
 #Column2 {
     Color:Black;
     background-color:Ivory;
+	text-align:center;
 }
 #sub {
     color:Ivory;
     font-size:12px;
     font-family:"Arial Black", Gadget, sans-serif;
+	text-align:center;
 }
 #sub2 {
     color:Ivory;
     font-size:12px;
     font-family:"Arial Black", Gadget, sans-serif;
+	text-align:center;
 }
 #whoislink {
     color:darkred;
@@ -153,4 +174,29 @@ table {
 }
 #C1 {
     color:darkred;
+}
+#HRelative {
+	text-align:center;
+}
+#HAbsolute {
+	text-align:center;
+}
+table {
+        border: 3px solid ivory;
+        border-collapse:collapse;
+		margin-left: auto;
+		margin-right: auto;
+		text-align:center;
+}
+tr {
+    border: 3px solid ivory;
+    border-collapse:collapse;
+}
+td {
+    border: 3px solid ivory;
+    border-collapse:collapse;
+}
+th {
+    border-collapse:collapse;
+    border: 3px solid ivory;
 }
