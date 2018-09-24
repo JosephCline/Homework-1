@@ -51,7 +51,7 @@ body {
     color:Ivory;
  font-family:Andale Mono, monospace;
 
-
+   
 }
 #example {
     color:Ivory;
@@ -141,7 +141,7 @@ table {
    font-family:Andale Mono, monospace;
      text-align:center;
 }
-#Column1 {
+#Column1 { 
     color:Black;
     background-color:Ivory;
 	text-align:center;
@@ -149,7 +149,7 @@ table {
 #Column2 {
     Color:Black;
     background-color:Ivory;
-	text-align:center;
+	text-align:center;  
 }
 #sub {
     color:Ivory;
